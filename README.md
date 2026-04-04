@@ -1,5 +1,4 @@
-<h1 align="center">👋 Hi, I'm Tsiferana
-</h1>
+<h1 align="center">👋 Hi, I'm $\\color{Green}{\\textsf{Tsiferana}}$ </h1>
 <h3 align="center">💚 React & Web Developer | Future DBA</h3>
 
 <p align="center">
@@ -16,9 +15,6 @@
 
 ---
 
-<!-- <a href="https://www.linkedin.com/in/tsif-randria-279aa9296/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=22c55e"/>
-</a> -->
 ## 🟢 Hire me
 
 <a href="https://www.linkedin.com/in/tsif-randria-279aa9296/">
