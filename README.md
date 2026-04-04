@@ -19,7 +19,9 @@
 <a href="https://www.linkedin.com/in/tsif-randria-279aa9296/">
     <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=22c55e"/>
 </a>
+
 ---
+
 ## 🧰 Tech
 ![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=22c55e)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=22c55e)
