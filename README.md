@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Tsiferana</h1>
+<h1 align="center">👋 Hi, <span style="color:green">I'm Tsiferana</span></h1>
 <h3 align="center">💚 React & Web Developer | Future DBA</h3>
 
 <p align="center">
