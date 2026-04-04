@@ -1,8 +1,7 @@
-<h1 align="center">👋 Hi, 
-  <img src="data:image/svg+xml;utf8,
+<h1 align="center">👋 Hi,   
   <svg xmlns='http://www.w3.org/2000/svg' height='50'>
     <text x='0' y='40' font-size='40' font-family='Arial' fill='%2322C55E'>I'm Tsiferana</text>
-  </svg>" alt="I'm Tsiferana"/>
+  </svg>
 </h1>
 <h3 align="center">💚 React & Web Developer | Future DBA</h3>
 
