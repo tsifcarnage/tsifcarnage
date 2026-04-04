@@ -34,7 +34,6 @@
 ## 📊 Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsifcarnage&theme=chartreuse-dark" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tsifcarnage&show_icons=true&theme=chartreuse-dark" />
 </p>
 
 ---
