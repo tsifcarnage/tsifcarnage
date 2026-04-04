@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hi, I'm $\\color{Green}{\\textsf{Tsiferana}}$ </h1>
+<h1 align="center">👋 Hi, I'm <p>
+  <img src="https://via.placeholder.com/600x120.png?text=Tsiferana&font=Arial&fontSize=48&bg=ffffff&color=00aa00" alt="Tsiferana">
+</p> </h1>
 <h3 align="center">💚 React & Web Developer | Future DBA</h3>
 
 <p align="center">
