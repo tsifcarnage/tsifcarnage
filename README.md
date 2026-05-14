@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Tsiferana</h1>
-<h3 align="center">💚 React & Web Developer | Future DBA</h3>
+<h3 align="center">💚 Web Developer -> React/Vue | Future DBA</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=22C55E&center=true&vCenter=true&lines=Web+Developer;React+Developer;Vue+Developer" />
