@@ -2,14 +2,15 @@
 <h3 align="center">💚 React & Web Developer | Future DBA</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=22C55E&center=true&vCenter=true&lines=React+Developer;Web+Developer;Learning+Databases+🌱" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=22C55E&center=true&vCenter=true&lines=Web+Developer;React+Developer;Vue+Developer" />
 </p>
 
 ---
 
 ## 🌿 About Me
-- 💻 React & Web Developer  
-- 🎨 UI with **TailwindCSS & SCSS**  
+- 💻 Web Developer with React/Vue(option & composition API)
+- 🎨 UI with **TailwindCSS & SCSS**
+- 😎 Javascript/Typescript
 - 🐍 Python & SQL  
 - 🎯 Goal: **Database Administrator (DBA)**
 
